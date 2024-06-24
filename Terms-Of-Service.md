@@ -1,7 +1,7 @@
 # LISA Terms Of Service
 
 
-### Note: We reserve the right to change this policy at any time without notification. By using LISA, you agree to the latest terms of service which should be regularly checked by you!
+#### Note: We reserve the right to change this policy at any time without notification. By using LISA, you agree to the latest terms of service which should be regularly checked by you!
 
 * The owner of LISA is comitted to ensuring that the app is as much efficient and useful as possible. For this very reason, we reserve the right to make changes to the app or to charge for its services at any time and for any reason. We will never charge you for the app or its services without making it clear to you for what exactly you are paying for prior to any such changes.
 
