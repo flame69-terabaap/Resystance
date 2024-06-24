@@ -53,3 +53,13 @@ The data which is stored by us is only accessible to the Bot Developers and none
 
 ## Data Security:
 
+* We take steps to ensure that the data provided from LISA is protected from misuse, loss, alteration, or unauthorized access.
+
+* However, no internet-based system can be declared fully secure and error free, which is a common sense, but do note that, we put all of our effort in the security of our users' data, etc.
+
+## Contact:
+
+* [Support Server](https://discord.gg/KjkHCSAEPU)
+
+
+THANK YOU FOR USING LISA AND ITS SERVICES!!
