@@ -61,11 +61,4 @@ The data which is stored by us is only accessible to the Bot Developers and none
 
 * [Support Server](https://discord.gg/KjkHCSAEPU)
 
-<html>
-  <body>
-    <iframe src="https://discord.com/widget?id=1243912822304407554&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-  </body>
-</html>
-
-
 THANK YOU FOR USING LISA AND ITS SERVICES!!
