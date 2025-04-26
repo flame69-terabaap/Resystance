@@ -14,7 +14,7 @@
 
 ## Storage Of Data
 
-* The following data is only stored, when the bot joins a Discord server and the certain modules are used. The server ID is still stored in our database in order to setup our databse for the bot's prefix in a particular Discord server, which is customizable and essential for us in order to ensure that the bot is able to work in a Discord Server.
+* The following data is only stored, when the bot joins a Discord server and the certain modules are used. The server ID is still stored in our database in order to setup our database for the bot's prefix in a particular Discord server, which is customizable and essential for us in order to ensure that the bot is able to work in a Discord Server.
 
 * Server IDs for server data which include:
   1. Prefixes
