@@ -1,16 +1,16 @@
-# LISA Privacy Policy
+# Losty Privacy Policy
 
 ## Statement
 
 * We are providing this explanation about our information practices as a show of our commitment to protect our users' privacy because we respect our users' privacy of information.
 
-* This privacy policy describes the types of information that may be collected from you or may be provided by you when using LISA or servers where LISA is present and our practices for collection, use, maintenance, protection and disclosure of that information.
+* This privacy policy describes the types of information that may be collected from you or may be provided by you when using Losty or servers where Losty is present and our practices for collection, use, maintenance, protection and disclosure of that information.
 
 * Kindly read this privacy policy very carefully in order to understand our policies and practices regarding your information and how we treat it.
 
 * If you don't agree with our policies and practices, it's your choice of not using our bot.
 
-* By adding LISA to your Discord server, you agree that you have read our privacy policy and terms of service and agree to the same.
+* By adding Losty to your Discord server, you agree that you have read our privacy policy and terms of service and agree to the same.
 
 ## Storage Of Data
 
@@ -30,7 +30,7 @@
   1. Mute
   2. Afk
 
-* Our bot only gathers personally identifiable data through the commands run using the bot. This information helps us in providing a better user experience for all LISA's users.
+* Our bot only gathers personally identifiable data through the commands run using the bot. This information helps us in providing a better user experience for all Losty's users.
 
 * Information collected by us when you vote for LISA on the third-party Discord bot listing website (Top.gg):
   1. Your Username
@@ -53,12 +53,12 @@ The data which is stored by us is only accessible to the Bot Developers and none
 
 ## Data Security:
 
-* We take steps to ensure that the data provided from LISA is protected from misuse, loss, alteration, or unauthorized access.
+* We take steps to ensure that the data provided from Losty is protected from misuse, loss, alteration, or unauthorized access.
 
 * However, no internet-based system can be declared fully secure and error free, which is a common sense, but do note that, we put all of our effort in the security of our users' data, etc.
 
 ## Contact:
 
-* [Support Server](https://discord.gg/KjkHCSAEPU)
+* [Support Server](https://discord.gg/RpWRWAe9xd)
 
-THANK YOU FOR USING LISA AND ITS SERVICES!!
+THANK YOU FOR USING LOSTY AND ITS SERVICES!!
