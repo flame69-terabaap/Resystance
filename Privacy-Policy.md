@@ -32,7 +32,7 @@
 
 * Our bot only gathers personally identifiable data through the commands run using the bot. This information helps us in providing a better user experience for all Losty's users.
 
-* Information collected by us when you vote for LISA on the third-party Discord bot listing website (Top.gg):
+* Information collected by us when you vote for Losty on the third-party Discord bot listing website (Top.gg):
   1. Your Username
   2. Your User ID
   3. Date and Time, when the votes are done.
