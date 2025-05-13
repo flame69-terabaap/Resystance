@@ -45,7 +45,7 @@ Following are the actions which are not allowed to be performed by you:
 
 #### Contact: 
 
-* [Support Server](https://discord.gg/uuACCbfUpU)
+* [Support Server](https://discord.gg/qyf4xyxHWv)
 
 
 
