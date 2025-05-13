@@ -59,6 +59,6 @@ The data which is stored by us is only accessible to the Bot Developers and none
 
 ## Contact:
 
-* [Support Server](https://discord.gg/uuACCbfUpU)
+* [Support Server](https://discord.gg/qyf4xyxHWv)
 
 THANK YOU FOR USING RESYST AND ITS SERVICES!!
