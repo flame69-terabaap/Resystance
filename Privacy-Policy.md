@@ -59,6 +59,6 @@ The data which is stored by us is only accessible to the Bot Developers and none
 
 ## Contact:
 
-* [Support Server](https://discord.gg/qyf4xyxHWv)
+* [Support Server](https://discord.gg/qeQUp2NuRh)
 
 THANK YOU FOR USING RESYSTANCE AND ITS SERVICES!!
